@@ -1,0 +1,21 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100;
+    padding: 25px 12.5%;
+    background: darkslateblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+  }
+
+  .navbar a {
+    font-size: 16;
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: 500;
+    margin-right: 30px;
+    
+  }
